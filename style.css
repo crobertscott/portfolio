@@ -41,6 +41,12 @@ p {
 font-size: 15px;
 }
 
+ol {
+  color: rgb(131, 104, 63);
+  margin-left:10%;
+  margin-right:10%;
+  font-size: 15px;
+}
 
 .about {
   background-color:rgba(255, 228, 196, 0.4);
