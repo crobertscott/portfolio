@@ -23,6 +23,7 @@ hr {
 }
 
 img {
+  display:block;
   width:250px;
   padding-top: 10px;
   margin-left: auto;
