@@ -1,7 +1,7 @@
 body { /*a general,overall style code for the site */
   font-family:Arial;
   color:rgb(63, 34, 17);
-  background-image: url(./background.jpg);
+  background-image: url(images/background.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   margin: auto;
