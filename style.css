@@ -22,9 +22,9 @@ hr {
   transform: rotate(10deg);
 }
 
-img {
+.center {
   display:block;
-  width:250px;
+  width:50%;
   padding-top: 10px;
   margin-left: auto;
   margin-right: auto;  
@@ -43,11 +43,12 @@ p {
 font-size: 15px;
 }
 
-ol {
+ol, ul {
   color: rgb(131, 104, 63);
   margin-left:10%;
   margin-right:10%;
   font-size: 15px;
+  text-indent: 5%;
 }
 
 .about {
