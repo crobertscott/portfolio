@@ -45,9 +45,8 @@ font-size: 15px;
 
 ol, ul {
   color: rgb(131, 104, 63);
-  text-align: center;
-  margin-left:10%;
-  margin-right:10%;
+  margin-left:auto;
+  margin-right:auto;
   font-size: 15px;
 }
 
