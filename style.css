@@ -45,10 +45,10 @@ font-size: 15px;
 
 ol, ul {
   color: rgb(131, 104, 63);
+  text-align: center;
   margin-left:10%;
   margin-right:10%;
   font-size: 15px;
-  text-indent: 5%;
 }
 
 .about {
